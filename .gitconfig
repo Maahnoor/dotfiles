@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+	email = Maahnoork22@gmail.com
+	name = Maahnoor
+# Please adapt and uncomment the following lines:
+#	name = 10xe-lpt-66
+#	email = xe-lpt-66@xelpt66.(none)
+[alias]
+graph = log --all --graph --decorate --oneline
+[core]
+	excludesfile = /home/xe-lpt-66/.gitignore_global
